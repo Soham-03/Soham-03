@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soham Parab 👋<br>Creating impact through code | 7x Hackathon Winner 🏆<br><br>🔭 I'm currently working on cross-platform mobile development with KMP<br>👯 I'm looking to collaborate on innovative mobile and web applications<br>🌱 I'm currently learning blockchain development and Swift<br>💬 Ask me about Jetpack Compose, Swift, Blockchain, and hackathon strategies<br><br>Tech Stack: Mobile Development (Android/iOS) • Web Development • Blockchain • AI<br>Specialties: Kotlin Multiplatform • Jetpack Compose • Swift • Full Stack Development
+Soham Parab 👋<br>Creating impact through code | 8x Hackathon Winner 🏆<br><br>🔭 I'm currently working on cross-platform mobile development with KMP<br>👯 I'm looking to collaborate on innovative mobile and web applications<br>🌱 I'm currently learning blockchain development and Swift<br>💬 Ask me about Jetpack Compose, Swift, Blockchain, and hackathon strategies<br><br>Tech Stack: Mobile Development (Android/iOS) • Web Development • Blockchain • AI<br>Specialties: Kotlin Multiplatform • Jetpack Compose • Swift • Full Stack Development
 
 
 ## 🌐 Socials:
